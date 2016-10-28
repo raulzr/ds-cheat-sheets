@@ -1,4 +1,4 @@
-# DS - Cheat Sheets
+# Data Science - Cheat Sheets
 
 Compendium of usefull cheat sheets for data science
 
