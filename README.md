@@ -27,6 +27,11 @@ Compendium of usefull cheat sheets for data science
 
 + [Numpy/SciPy/Pandas](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) - Simple cheat sheet
 
+## Bases de datos
+
++ [Postgres](https://www.databaselabs.io/blog/img/Postgres-Cheat-Sheet.pdf)
++ [SQL](http://www.cheat-sheets.org/sites/sql.su/)
+
 ## Miscelaneus
 + Regular expressions
   * [Cheat sheets](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
@@ -38,4 +43,3 @@ Compendium of usefull cheat sheets for data science
   * [Simple Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
   * [More complete/interactive cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 + [awk](http://www.cheat-sheets.org/saved-copy/awk_quickref.pdf) - awk shell command
-+ [SQL](http://www.cheat-sheets.org/sites/sql.su/)
