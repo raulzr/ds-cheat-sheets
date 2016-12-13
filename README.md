@@ -32,6 +32,11 @@ Compendium of usefull cheat sheets for data science
 + [Postgres](https://www.databaselabs.io/blog/img/Postgres-Cheat-Sheet.pdf)
 + [SQL](http://www.cheat-sheets.org/sites/sql.su/)
 
+## GIT
++ [Excellent GIT tutotial](https://www.atlassian.com/git/)
++ [Simple Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
++ [More complete/interactive cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
+  
 ## Miscelaneus
 + Regular expressions
   * [Cheat sheets](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
@@ -39,7 +44,4 @@ Compendium of usefull cheat sheets for data science
 + Docker
   * [CS 1](https://reinvent.awsevents.com/_media/docs/sponsors/gold/Docker-Inc_Commands-Cheat-Sheet.pdf) - Simple cheat sheet
   * [CS 1](https://www.cheatography.com/aabs/cheat-sheets/docker-and-friends/pdf_bw/) - More complete cheat sheet
-+ GIT
-  * [Simple Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
-  * [More complete/interactive cheat sheet](http://ndpsoftware.com/git-cheatsheet.html)
 + [awk](http://www.cheat-sheets.org/saved-copy/awk_quickref.pdf) - awk shell command
